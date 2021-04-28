@@ -42,7 +42,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## TOP GUN CAT
-
-<id>https://octodex.github.com/topguntocat/</id>
 <content type="html"> <p> <a href="https://octodex.github.com/topguntocat/"> <img src="https://octodex.github.com/images/topguntocat.png"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/topguntocat/">Topguntocat</a></strong> by leereilly, tonyjaramillo </p> </content>
 </entry>
+<id>https://octodex.github.com/topguntocat/</id>
