@@ -4,10 +4,13 @@ You can use the [editor on GitHub](https://github.com/markhenryfreeman/markhenry
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-_As Kanye West said:_
+__As Kanye West said:__
 
-> We're living the future so
-> the present is our past.
+> _We're living the future so the present is our past._
+
+__As Igor Sikorsky said:__
+
+> _According to the laws of aerodynamics, the bumblebee can't fly either, but the bumblebee doesn't know anything about the laws of aerodynamics, so it goes ahead and flies anyway._
 
 ### Markdown
 
